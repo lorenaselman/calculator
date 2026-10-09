@@ -1,5 +1,4 @@
-if __name__ == "__main__":
-  def main():
+def main():
     while True:
         print ("Simple Calculator")
         print ("1. Add")
